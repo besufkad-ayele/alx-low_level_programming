@@ -24,7 +24,7 @@ void times_table(int n){
 	      _putchar(result);
 	   }
 	number++;
-	_putchar('\n')
+	_putchar('\n');
 	}
 }
 
